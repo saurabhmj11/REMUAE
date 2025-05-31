@@ -1,0 +1,6 @@
+streamlit
+faster-whisper
+soundfile
+transformers
+python-docx
+fpdf2
